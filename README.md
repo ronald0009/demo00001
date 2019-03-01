@@ -16,7 +16,7 @@ git clone https://github.com/ronald0009/demo00001.git
 
 3. [Create base project](https://start.spring.io/)
 
-```
+```xml
 <groupId>com.rab</groupId>
 <artifactId>demo00001</artifactId>
 ```
