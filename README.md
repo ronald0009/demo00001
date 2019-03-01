@@ -1,6 +1,6 @@
 # demo00001
 
-/replica/pom.xml
+# /replica/pom.xml
 
 <groupId>com.rab</groupId>
 <artifactId>replica</artifactId>
@@ -13,7 +13,7 @@
 	<version>1.2.17</version>
 </dependency>
 
-/replica/src/main/java/log4j.properties
+# /replica/src/main/java/log4j.properties
 
 # Root logger option
 log4j.rootLogger=INFO,WARN,ERROR,DEBUG, stdout, file
